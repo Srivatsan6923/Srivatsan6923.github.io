@@ -8,18 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a final-year undergraduate student at the National Institute of Technology, Tiruchirappalli (NIT Trichy), pursuing a Bachelor of Technology (Honors) in Electronics and Communication Engineering with a Minor in Computer Science. Additionally, I am a final-year exchange student at the Wadhwani School of Data Science and AI, Indian Institute of Technology, Madras.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently, I am a Research Intern at the MiRL Lab, Indian Institute of Technology, Madras, under the guidance of Prof. Ganapathy Krishnamurthi. My research involves 2D to 3D reconstruction of coronary arteries from X-ray angiogram images and the analysis of vFFR computation techniques. Concurrently, I work as an Undergraduate Research Assistant at the MIC-AIH Lab, ECE Department, NIT Trichy, under the supervision of Prof. Varun P. Gopi, focusing on retinal microvasculature and Foveal Avascular Zone segmentation in OCTA images using deep learning. My work also includes cross-domain knowledge distillation for multi-task learning in diabetic retinopathy classification and segmentation in OCTA images, as well as multimodal medical image data fusion for accurate prediction of Alzheimer's disease.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I interned at A*STAR’s Singapore Institute of Manufacturing Technology (SIMTech) under Mr. Dong Chaoyu, where I worked on advanced semantic segmentation of particle defects in metal additive manufacturing. I also served as a Summer Research Fellow at the Movement Control Lab, Centre for Neuroscience, Indian Institute of Science, Bengaluru, under the guidance of Prof. Aditya Murthy. There, I analyzed muscle activation patterns through the decomposition of single-channel sEMG signals using Independent Component Analysis (ICA).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on computer vision, multimodal fusion, signal and image processing, and AI, with a strong emphasis on diagnostic and prognostic applications in healthcare.
+
+For collaborations, feel free to reach out to me at srivatsan6923@gmail.com.
